@@ -1,0 +1,41 @@
+.box{
+    margin-left: 40px;
+    width: 1275px;
+    border: 10px solid rgb(70, 149, 233);
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 50px
+}
+
+.profile{
+    margin-left: 70px;
+}
+img{
+    display: block;
+    margin-left: 400px;
+}
+h2{
+    font-size: 35px;
+    margin-left: 355px;
+}
+
+.content{
+    margin-left: 60px;
+}
+section{
+    margin: 20px 0;
+}
+h3{
+    font-size: 30px;
+}
+li{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+
+
+
